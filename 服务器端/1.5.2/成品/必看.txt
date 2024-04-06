@@ -1,3 +1,5 @@
 （这个文件）运行方式：解压java.zip
 运行bukkit_command中的run.bat（可能也显示run）
 运行bungee_command中的run.bat
+打开成品中的game.html多人游戏-添加服务器-ws://127.0.0.1:25565
+web.zip的内容相当于game.html,只是在网页上,可以运用nginx
