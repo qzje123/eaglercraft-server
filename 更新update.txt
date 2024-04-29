@@ -1,5 +1,6 @@
 
 这是更新文件
+#This is update of the program
 
 1.5.2：for 原版
     2024.4.6[0次构造[1次成功
@@ -7,6 +8,19 @@
     2024.4.10[2次构造[1次成功
 1.5.2：for spigot
     2024.4.14[2次构造[1次成功
+
+#suggestion:had better to use
+#原版,bukkitcraft,spigot
+#it can be more FPS
+
 2024/4/14 up to 1.8.8
 1.8.8: for 原版
-    
+    2024.4.16[1次构造[1次成功
+1.8.8: for paper
+    2024.4.21[1次构造[1次成功
+1.8.8:for spigot
+    2024.4.27[1次构造[1次成功
+
+#suggestion:had better to use
+#原版,spigot
+#it can be more FPS
