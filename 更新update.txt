@@ -25,9 +25,17 @@
 #原版,spigot
 #it can be more FPS
 
-2024/5/3 up to 1.9.4
-1.9.4: for papermc [3次构造[1次成功
+2024/4/29 up to 1.9.4
+1.9.4: for papermc 
+    2024.5.1[3次构造[1次成功
+1.9.4: for spigot 
+    2024.5.2[2次构造[1次成功
+1.9.4: for craftbukkit
+    2024.5.4[1次构造[1次成功
 
 #suggestion:had better to use
-#
+#papermc
 #it can be more FPS
+
+2024/5/5 up to 1.9.5
+1.9.5:for
