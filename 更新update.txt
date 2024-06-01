@@ -38,4 +38,14 @@
 #it can be more FPS
 
 2024/5/5 up to 1.9.5
-1.9.5:for
+1.9.5:for all [e[e
+
+2024/6/1 update to 1.10
+1.10: for spigot
+    2024.6.1[0次构造[0次成功
+1.10: for craftcraft
+    2024.6.1[1次构造[1次成功
+
+#suggestion:had better to use
+#spigot,craftcraft
+#it can be more FPS
