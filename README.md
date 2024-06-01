@@ -17,4 +17,4 @@ please download it in Releases
 this will contine update until the new minecraft
 
 ## join 
-you can join this
+you can join this.
